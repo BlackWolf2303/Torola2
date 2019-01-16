@@ -24,10 +24,10 @@
 
 <script>
 import Vue from "vue";
-import VueParallaxJs from "vue-parallax-js";
-import AOS from 'aos';
+import VueParallaxJs from "../../../../node_modules/vue-parallax-js";
+import AOS from '../../../../node_modules/aos';
 import "aos/dist/aos.css";
-import VueMq from 'vue-mq';
+import VueMq from '../../../../node_modules/vue-mq';
 
 Vue.use(VueMq, {
   breakpoints: {

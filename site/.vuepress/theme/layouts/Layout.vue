@@ -15,7 +15,7 @@
 
 <script>
 import Vue from 'vue';
-import SmoothScrollbar from 'vue-smooth-scrollbar';
+import SmoothScrollbar from '../../../../node_modules/vue-smooth-scrollbar';
 Vue.use(SmoothScrollbar);
 
 import Header from "@theme/components/Header.vue";

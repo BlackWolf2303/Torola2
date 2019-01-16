@@ -19,7 +19,7 @@
 
 <script>
 import Vue from "vue";
-import VueParallaxJs from "vue-parallax-js";
+import VueParallaxJs from "../../../../node_modules/vue-parallax-js";
 
 Vue.use(VueParallaxJs);
 
